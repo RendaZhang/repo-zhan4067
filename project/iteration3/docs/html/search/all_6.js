@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['g',['g',['../struct_color.html#ab5656e995bddd43d286c7ff5629a31dd',1,'Color']]],
+  ['get_5fbattery_5flevel',['get_battery_level',['../class_player.html#ac6737d6f059c45d547b952188c7f7e63',1,'Player']]],
+  ['get_5fcolor',['get_color',['../class_arena_entity.html#a7453df8a431b1272067817a73176833f',1,'ArenaEntity']]],
+  ['get_5fentity',['get_entity',['../class_sensor_base_class.html#ae7d2b9b5f6e9dd40f93c4d2968a5e04b',1,'SensorBaseClass']]],
+  ['get_5fentity_5ftype',['get_entity_type',['../class_arena_entity.html#ae8dbb54e9dae64e768cd53613cbc091f',1,'ArenaEntity::get_entity_type()'],['../class_event_type_emit.html#a2de917bb3fa498105330861799d89140',1,'EventTypeEmit::get_entity_type()'],['../class_sensor_entity_type.html#aeb7f22d332aff0b47280c7fefe72723f',1,'SensorEntityType::get_entity_type()']]],
+  ['get_5ffov_5fangle',['get_fov_angle',['../class_sensor_base_class.html#ab72ae412a4097c08b2926e903994c82d',1,'SensorBaseClass']]],
+  ['get_5fheading_5fangle',['get_heading_angle',['../class_arena_mobile_entity.html#ab3dbf4d26afe152a6b8a8ba276c48eec',1,'ArenaMobileEntity::get_heading_angle()'],['../class_home_base.html#a63b16037bc8cd1b18306250a5dea5503',1,'HomeBase::get_heading_angle()'],['../class_motion_handler.html#a5f153e65916417280c5264c384f30967',1,'MotionHandler::get_heading_angle()'],['../class_player.html#a9a34523dd7f28a0e455e41138afd997b',1,'Player::get_heading_angle()'],['../class_robot.html#a954d8891771fcbeaae4782bdc62de109',1,'Robot::get_heading_angle()']]],
+  ['get_5finit_5fpos',['get_init_pos',['../class_arena_entity.html#a068317f7a57c06872134f02d847f969d',1,'ArenaEntity']]],
+  ['get_5fmax_5fspeed',['get_max_speed',['../class_motion_handler.html#a8603e672551acb7cbd74e6ea7c9ad790',1,'MotionHandler']]],
+  ['get_5fname',['get_name',['../class_arena_entity.html#ab755cbf87009d280b93f2388409ec3e4',1,'ArenaEntity::get_name()'],['../class_home_base.html#a178ccacb95673ef558a5940944ae009a',1,'HomeBase::get_name()'],['../class_obstacle.html#adf7e4ae494a8d56570ab6ad3585c3c2a',1,'Obstacle::get_name()'],['../class_player.html#a70236eb96cf1e9db9398ca4a4d27ff24',1,'Player::get_name()'],['../class_recharge_station.html#a26a039ea4bdc30b242b0a9247007c008',1,'RechargeStation::get_name()'],['../class_robot.html#a4b5536513e6150623baac08217fb5bdc',1,'Robot::get_name()'],['../class_status_sign.html#a6109ba50a6ef0448245ac0a897523e0c',1,'StatusSign::get_name()']]],
+  ['get_5fold_5fpos',['get_old_pos',['../class_arena_entity.html#a5ba7bfe631a2c6de27f16eb21e9b129d',1,'ArenaEntity']]],
+  ['get_5fpos',['get_pos',['../class_arena_entity.html#a23b3d6debe2affb988b52f45edec7f4c',1,'ArenaEntity']]],
+  ['get_5fradius',['get_radius',['../class_arena_entity.html#a12f0a75f330adb119bcfd53eb96739d5',1,'ArenaEntity']]],
+  ['get_5frange',['get_range',['../class_event_proximity.html#a3ad39a65e6c6b2bda7695fef96e096b6',1,'EventProximity::get_range()'],['../class_sensor_base_class.html#ac7e7f562bb24fc23072b5132b092cd8d',1,'SensorBaseClass::get_range()']]],
+  ['get_5fsensor_5fdistress',['get_sensor_distress',['../class_robot.html#a6aa4e0a26b221d9dc549c43c40c6c237',1,'Robot']]],
+  ['get_5fsensor_5fentity_5ftype',['get_sensor_entity_type',['../class_robot.html#a1f62a70b9ed76819f882fa82894eab3d',1,'Robot']]],
+  ['get_5fsensor_5flower',['get_sensor_lower',['../class_event_proximity.html#adb04d6f310e493a8682d1a035816a4d3',1,'EventProximity::get_sensor_lower()'],['../class_sensor_proximity.html#a06132e3ccefd90dfb896cfffc16ed6c9',1,'SensorProximity::get_sensor_lower()']]],
+  ['get_5fsensor_5fproximity',['get_sensor_proximity',['../class_robot.html#a8858a7ad7c078e7468fbdbedd2c6a551',1,'Robot']]],
+  ['get_5fsensor_5ftouch',['get_sensor_touch',['../class_home_base.html#a0d2e76546742d1f76b51c9cfdf398760',1,'HomeBase::get_sensor_touch()'],['../class_player.html#a56ed353b05b21913a2b45db681257f1d',1,'Player::get_sensor_touch()'],['../class_robot.html#a28c667b85681a977e352939962c2d689',1,'Robot::get_sensor_touch()']]],
+  ['get_5fsensor_5fupper',['get_sensor_upper',['../class_event_proximity.html#a2ccc233218b1243bcd39bade624d6a8b',1,'EventProximity::get_sensor_upper()'],['../class_sensor_proximity.html#a76951b2c4ca8605f527a9472e64df785',1,'SensorProximity::get_sensor_upper()']]],
+  ['get_5fspeed',['get_speed',['../class_arena_mobile_entity.html#adb593f22e106d252e91b7936e886fb77',1,'ArenaMobileEntity::get_speed()'],['../class_home_base.html#a42ff89c8f0d01ba696683a1fa3f80c25',1,'HomeBase::get_speed()'],['../class_motion_handler.html#aeac724bc4c73958e5d6ba9ce3bde4218',1,'MotionHandler::get_speed()'],['../class_player.html#acdaf755d51b434758b2198045c9bac92',1,'Player::get_speed()'],['../class_robot.html#aa0c220ba360fcefde8cf50500dd2d0b7',1,'Robot::get_speed()']]],
+  ['get_5fstatus',['get_status',['../class_event_distress_call.html#aa1812523a7d17c453c73257b96961969',1,'EventDistressCall::get_status()'],['../class_event_proximity.html#a7c765a49bec37d010d76ea0c06cf1d9e',1,'EventProximity::get_status()'],['../class_event_type_emit.html#ae4d6bd3dc0874bb9b5d9bbb64f391e6a',1,'EventTypeEmit::get_status()']]],
+  ['graphics_5farena_5fviewer_2ecc',['graphics_arena_viewer.cc',['../graphics__arena__viewer_8cc.html',1,'']]],
+  ['graphics_5farena_5fviewer_2eh',['graphics_arena_viewer.h',['../graphics__arena__viewer_8h.html',1,'']]],
+  ['graphicsarenaviewer',['GraphicsArenaViewer',['../class_graphics_arena_viewer.html',1,'GraphicsArenaViewer'],['../class_graphics_arena_viewer.html#a03ff0c2a249af349dae5e2029a25c034',1,'GraphicsArenaViewer::GraphicsArenaViewer()']]]
+];

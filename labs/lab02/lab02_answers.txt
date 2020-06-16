@@ -1,0 +1,8 @@
+Name: renda zhang
+
+
+Notice that we are not including Duck.h. Can you guess why we don't need it, even though we are referencing it below?
+
+-Because in the "MallardDuck.h" and "RubberDuck.h" files, they included the file "Duck.h"
+
+
